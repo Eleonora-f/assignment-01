@@ -1,5 +1,5 @@
 package pcd.ass01;
-
+//NON DA MODIFICARE
 public class BoidsSimulation {
 
 	final static int N_BOIDS = 1500;
